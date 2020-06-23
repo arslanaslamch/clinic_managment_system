@@ -1,0 +1,33 @@
+[06-May-2020 11:46:07 UTC] PHP Notice:  Undefined variable: GetDoctors in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 33
+[06-May-2020 11:46:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 33
+[06-May-2020 11:46:07 UTC] PHP Notice:  Undefined variable: gSum in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 61
+[22-May-2020 02:44:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getRevenueExpense.php on line 78
+[22-May-2020 17:28:42 UTC] PHP Notice:  Undefined variable: DoctorN in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getRevenueExpense.php on line 72
+[22-May-2020 17:28:42 UTC] PHP Notice:  Undefined variable: DoctorN in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getRevenueExpense.php on line 72
+[23-May-2020 00:30:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getPatientNameData.php on line 5
+[23-May-2020 15:50:31 UTC] PHP Notice:  Undefined variable: DoctorName in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getRevenueExpense.php on line 76
+[23-May-2020 15:50:31 UTC] PHP Notice:  Undefined variable: DoctorName in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getRevenueExpense.php on line 76
+[23-May-2020 15:50:36 UTC] PHP Notice:  Undefined variable: DoctorName in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getRevenueExpense.php on line 76
+[23-May-2020 15:50:36 UTC] PHP Notice:  Undefined variable: DoctorName in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getRevenueExpense.php on line 76
+[23-May-2020 15:50:53 UTC] PHP Notice:  Undefined variable: DoctorName in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getRevenueExpense.php on line 76
+[23-May-2020 15:50:53 UTC] PHP Notice:  Undefined variable: DoctorName in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getRevenueExpense.php on line 76
+[31-May-2020 16:58:17 UTC] PHP Notice:  Undefined variable: gSum in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 61
+[31-May-2020 16:58:26 UTC] PHP Notice:  Undefined variable: gSum in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 61
+[31-May-2020 16:58:28 UTC] PHP Notice:  Undefined variable: gSum in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 61
+[31-May-2020 16:58:33 UTC] PHP Notice:  Undefined variable: gSum in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 61
+[31-May-2020 16:58:36 UTC] PHP Notice:  Undefined variable: gSum in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 61
+[06-Jun-2020 16:05:20 UTC] PHP Notice:  Undefined variable: GetDoctors in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 33
+[06-Jun-2020 16:05:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 33
+[06-Jun-2020 16:05:20 UTC] PHP Notice:  Undefined variable: gSum in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/getDocRevenue.php on line 61
+[13-Jun-2020 19:18:34 UTC] PHP Notice:  Undefined index: appointment_time in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 10
+[13-Jun-2020 19:18:34 UTC] PHP Notice:  Undefined index: appointment_date in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 11
+[13-Jun-2020 19:18:34 UTC] PHP Notice:  Undefined index: payment_amount in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 12
+[13-Jun-2020 19:18:34 UTC] PHP Notice:  Undefined index: payment_status in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 13
+[13-Jun-2020 19:18:34 UTC] PHP Notice:  Undefined index: doctor_name in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 14
+[13-Jun-2020 19:18:34 UTC] PHP Notice:  Undefined index: select_session in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 15
+[15-Jun-2020 14:52:59 UTC] PHP Notice:  Undefined index: appointment_time in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 10
+[15-Jun-2020 14:52:59 UTC] PHP Notice:  Undefined index: appointment_date in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 11
+[15-Jun-2020 14:52:59 UTC] PHP Notice:  Undefined index: payment_amount in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 12
+[15-Jun-2020 14:53:00 UTC] PHP Notice:  Undefined index: payment_status in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 13
+[15-Jun-2020 14:53:00 UTC] PHP Notice:  Undefined index: doctor_name in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 14
+[15-Jun-2020 14:53:00 UTC] PHP Notice:  Undefined index: select_session in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/php/editallPatient.php on line 15

@@ -1,0 +1,873 @@
+[05-May-2020 00:09:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[05-May-2020 17:25:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[05-May-2020 18:42:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[05-May-2020 23:11:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[05-May-2020 23:13:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[05-May-2020 23:14:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[06-May-2020 11:47:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[06-May-2020 17:43:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[06-May-2020 17:53:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[09-May-2020 13:13:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[09-May-2020 20:44:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[13-May-2020 18:41:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 102
+[23-May-2020 02:31:44 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:31:44 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:31:44 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:31:44 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:31:44 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:31:44 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:31:44 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:31:44 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:33:22 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:33:22 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:33:22 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:33:22 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:33:22 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:33:22 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:33:22 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:33:22 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:44:53 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:44:53 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:44:53 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:44:53 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:44:53 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:44:53 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:44:53 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[23-May-2020 02:44:53 UTC] PHP Notice:  Undefined variable: GP in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 116
+[29-May-2020 14:15:10 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 14:16:03 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 14:17:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 14:17:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 14:17:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 14:17:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 14:19:13 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 14:19:13 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:02:21 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:02:21 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:03:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:03:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:05:55 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:05:55 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:06:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:06:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:06:42 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:06:42 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:06:53 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[29-May-2020 16:06:53 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:08:26 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:08:26 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:13:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/view-patient-tests.php on line 156
+[30-May-2020 07:13:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:13:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:18:08 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:18:08 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:20:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:20:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:22:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:22:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 201
+[30-May-2020 07:54:10 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:10 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:10 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:10 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:10 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:54:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:55:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:55:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:55:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:55:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:55:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:59:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:59:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:59:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:59:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 07:59:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:00:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:00:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:00:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:00:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:00:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:00:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:00:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:00:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:00:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:00:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 205
+[30-May-2020 08:05:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:05:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:05:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:05:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:05:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:05:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:05:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:05:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:05:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:06:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:06:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:07:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:07:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:17:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 08:17:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:17:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 213
+[30-May-2020 08:17:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:17:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 213
+[30-May-2020 08:18:26 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:18:26 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 213
+[30-May-2020 08:18:26 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:18:26 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 213
+[30-May-2020 08:29:47 UTC] PHP Notice:  Undefined variable: GD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 42
+[30-May-2020 08:38:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:38:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 213
+[30-May-2020 08:38:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 208
+[30-May-2020 08:38:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 213
+[30-May-2020 08:44:07 UTC] PHP Notice:  Undefined index: amount in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 8
+[30-May-2020 08:44:09 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 08:44:09 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 08:44:09 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 08:44:09 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 08:44:09 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 08:44:09 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 08:44:25 UTC] PHP Notice:  Undefined index: amount in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 8
+[30-May-2020 08:44:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 58
+[30-May-2020 08:44:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 08:44:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 08:44:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 08:44:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 08:44:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 08:44:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 08:45:47 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 08:45:55 UTC] PHP Notice:  Undefined variable: GTD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 52
+[30-May-2020 08:45:55 UTC] PHP Notice:  Undefined variable: GTD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 08:45:55 UTC] PHP Notice:  Undefined variable: GTD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 08:45:55 UTC] PHP Notice:  Undefined variable: GTD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 08:46:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 08:46:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 08:46:26 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 08:46:27 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 08:46:27 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 08:46:27 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 08:46:27 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 09:41:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 09:41:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 09:41:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 09:41:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:18:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:18:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:18:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:18:13 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:19:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:19:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:19:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:19:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:21:13 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:21:13 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:21:13 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:21:13 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:23:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:23:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:23:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:23:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:24:54 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:24:54 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:24:54 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:24:54 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:24:54 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:24:54 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:25:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 15:26:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:26:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:26:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:26:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:26:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:26:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:26:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:26:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:26:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:26:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:26:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:26:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:27:33 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:27:33 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:27:33 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:27:33 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:27:33 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:27:33 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:28:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:28:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:28:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:28:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:28:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:28:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:29:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:29:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:29:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:29:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:29:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:29:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:29:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:29:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:30:28 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 15:30:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 15:30:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:30:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:30:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:30:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:30:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:30:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:30:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:30:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:30:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:30:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:30:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:30:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:31:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:31:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:31:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:31:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:31:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:31:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:31:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:31:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:32:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:32:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:32:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:32:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:34:58 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:34:58 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:40:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 15:40:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 15:40:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 15:40:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 19:55:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 19:55:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 19:56:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 19:56:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:11:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[30-May-2020 20:11:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:11:29 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:13:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:13:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:13:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:13:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:13:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:13:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:13:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:13:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:13:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:13:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:14:57 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:14:57 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:15:07 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:15:07 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:15:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:15:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:28:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:28:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:28:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:28:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:55:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:55:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:55:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:55:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:55:43 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:55:43 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:55:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:55:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:56:07 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:56:07 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[30-May-2020 20:56:39 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[30-May-2020 20:56:39 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[31-May-2020 17:00:50 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[31-May-2020 17:00:50 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[31-May-2020 17:01:27 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[31-May-2020 17:01:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[31-May-2020 20:55:27 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[31-May-2020 20:55:27 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[31-May-2020 20:55:27 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[31-May-2020 20:55:27 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[31-May-2020 20:55:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[31-May-2020 20:55:44 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[31-May-2020 20:55:45 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[31-May-2020 20:55:45 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[31-May-2020 20:56:02 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[31-May-2020 20:56:09 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[03-Jun-2020 18:56:33 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[03-Jun-2020 18:56:33 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[03-Jun-2020 19:24:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[03-Jun-2020 19:24:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[03-Jun-2020 19:24:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[03-Jun-2020 19:24:48 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[04-Jun-2020 21:05:32 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[04-Jun-2020 21:05:32 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[04-Jun-2020 21:05:32 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[04-Jun-2020 21:05:32 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[04-Jun-2020 21:05:32 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[04-Jun-2020 21:05:32 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[04-Jun-2020 21:07:05 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[04-Jun-2020 21:07:05 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[04-Jun-2020 21:07:05 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[04-Jun-2020 21:07:05 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[04-Jun-2020 21:07:05 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[04-Jun-2020 21:07:05 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[06-Jun-2020 22:08:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[06-Jun-2020 22:08:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[06-Jun-2020 22:08:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[06-Jun-2020 22:08:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[06-Jun-2020 22:08:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[06-Jun-2020 22:08:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[06-Jun-2020 22:08:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[06-Jun-2020 22:08:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[07-Jun-2020 18:16:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[07-Jun-2020 18:16:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[07-Jun-2020 18:16:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[07-Jun-2020 18:16:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[07-Jun-2020 18:16:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[07-Jun-2020 18:16:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[07-Jun-2020 18:17:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[07-Jun-2020 18:17:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[07-Jun-2020 18:17:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[07-Jun-2020 18:17:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[07-Jun-2020 18:17:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[07-Jun-2020 18:17:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[13-Jun-2020 17:38:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[13-Jun-2020 17:38:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[13-Jun-2020 19:14:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[13-Jun-2020 19:14:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[13-Jun-2020 19:14:54 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[13-Jun-2020 19:15:01 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/due_amount_pay.php on line 60
+[15-Jun-2020 12:35:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:35:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 12:35:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:35:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 12:35:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:35:46 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 12:56:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:56:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 12:56:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:56:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 12:56:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:56:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 12:56:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:56:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 12:59:01 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:59:01 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 12:59:01 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:59:01 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 12:59:01 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:59:01 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 12:59:01 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 12:59:01 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:02:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:02:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:02:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:02:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:02:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:02:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:02:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:02:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:02:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:02:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:55:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:55:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:55:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:55:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:55:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:55:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:55:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:55:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:55:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:55:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:57:40 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 13:58:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:00:19 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:00:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:00 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:01 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:12:01 UTC] PHP Notice:  Undefined variable: RD in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patients.php on line 111
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:13:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:17:25 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:18:34 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:15 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:19:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[15-Jun-2020 14:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[15-Jun-2020 14:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:25:24 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:12 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:28:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:28:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:28:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:28:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:28:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:28:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:28:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:28:37 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:28:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:28:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:28:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:28:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:28:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:28:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:33:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:33:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:33:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:33:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[20-Jun-2020 21:33:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[20-Jun-2020 21:33:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 13:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 13:55:07 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 13:55:07 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 13:55:07 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:51:35 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:51:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:51:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:51:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:51:36 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:52:17 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:54:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:54:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:54:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:54:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:54:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:54:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:54:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:54:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:54:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:54:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:55:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:55:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:55:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:55:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:55:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:55:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 16:55:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 16:55:20 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:53:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:53:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:53:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:53:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:53:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:53:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:53:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:53:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:53:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:53:22 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:53:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:53:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:53:59 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:00 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:38 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[21-Jun-2020 20:54:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[21-Jun-2020 20:54:52 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:24:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:24:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:24:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:24:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:24:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:24:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:24:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:24:56 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:25:50 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:25:50 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:25:50 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:25:50 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:25:50 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:25:50 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:25:50 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:25:50 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:26:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:26:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:26:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:26:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:26:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:26:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:26:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:26:11 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:33:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:33:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:33:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:33:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:33:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:33:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:33:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:33:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 17:33:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 17:33:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 18:43:57 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 18:43:57 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 18:43:57 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 18:43:57 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 18:43:57 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 18:43:57 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 18:43:57 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 18:43:57 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 18:45:47 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 18:45:47 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 18:45:47 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 18:45:47 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 18:45:47 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 18:45:47 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 18:45:47 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 18:45:47 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[22-Jun-2020 19:44:23 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 06:58:18 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:21:49 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:14 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:30 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:31 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:22:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:22:51 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:23:55 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:23:55 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:23:55 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:23:55 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:23:55 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:23:55 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
+[23-Jun-2020 20:23:55 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 232
+[23-Jun-2020 20:23:55 UTC] PHP Warning:  A non-numeric value encountered in /home/eulo9xjgsysa/public_html/hms.clinicareegypt.com/Superadmin/All-patient_tests.php on line 237
